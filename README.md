@@ -86,10 +86,8 @@ The project is divided into several modules, each corresponding to a specific fe
 22. **Module 22 - Design and Show Data on View Employee Page**
     - Designing and displaying employee data on the View Employee page
 
-23. **Module 23 - It's Demo Time and Source Code on GitHub**
-    - Providing a demo of the fully functional application and sharing the source code on GitHub
 
 ## Conclusion
 This Full Stack CRUD application showcases the seamless integration of ReactJS and Spring Boot, allowing for efficient management of employee data. The combination of frontend and backend technologies, along with MySQL for data persistence, results in a robust and responsive employee management system.
 
-For detailed instructions and code examples, refer to the respective video tutorials linked above. The source code is available on [GitHub](https://youtu.be/FX5HE_gnOTI) for further exploration and reference.
+
